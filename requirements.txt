@@ -1,0 +1,7 @@
+ultralytics==8.3.40
+opencv-python==4.11.0.86
+edge-tts==6.1.16
+pygame==2.6.1
+pillow==11.1.0
+googletrans==4.0.0-rc1
+numpy==2.2.4
