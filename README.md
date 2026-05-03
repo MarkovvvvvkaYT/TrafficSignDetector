@@ -1,17 +1,35 @@
-# sign_detector
+# Traffic Sign Detector
 
-A new Flutter project.
+Traffic Sign Detector is an Android application that uses a neural network model to recognize road signs in real time through a smartphone camera.  
+The application can also pronounce detected traffic signs using Text-to-Speech technology.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Real-time traffic sign detection
+- Voice announcement of detected signs
+- Android smartphone camera support
+- Neural network based recognition
+- Simple and user-friendly interface
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Android Studio
+- Kotlin
+- Machine Learning
+- Computer Vision
+- Text-to-Speech (TTS)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How It Works
+
+1. The smartphone camera captures an image.
+2. The neural network analyzes the frame.
+3. The application detects a traffic sign.
+4. The detected sign name is displayed and pronounced.
+
+## Purpose of the Project
+
+The purpose of this project is to demonstrate the capabilities of computer vision and machine learning technologies in mobile applications and improve road safety.
+
+## Author
+
+MarkovvvvvkaYT
